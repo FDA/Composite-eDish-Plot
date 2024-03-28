@@ -40,5 +40,8 @@ The following two datasets in ADaM CDISC standard are required to run the applic
 
 Hypothetical adsl and adlb datasets are included in the repository to demonstrate the application.
 
+To cite the code: [![DOI](https://zenodo.org/badge/777308644.svg)](https://zenodo.org/doi/10.5281/zenodo.10892050)
+
 ## Disclaimer
 Wherever applied, the contents in this Software and its accompanied documentations reflect the views of the authors and should not be construed to represent FDA’s views or policies. The use of this code in no way implies endorsement by the FDA. Besides, FDA makes no representations that the use of the Software will not infringe any patent or proprietary rights of third parties.
+
