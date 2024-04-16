@@ -29,6 +29,10 @@ library(rio) #Read jmp data types
 library(gt) #For making tables
 library(janitor) #For making tables
 
+# By default, Shiny limits file uploads to 5MB per file.
+# Increase it to 900MB
+options(shiny.maxRequestSize=900*1024^2) 
+
 myLabels <- c("Normal & NN", "Cholestasis", "Temple's Corollary", "Hy's Law")
 myQLabels <- c("Subjects in Normal & NN", "Subjects in Cholestasis", 
                "Subjects in Temple's Corollary", "Subjects in Hy's Law")
