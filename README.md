@@ -7,16 +7,16 @@ This repository contains a shiny app code that generates and displays the compos
 The composite eDISH plot is a visualization of peak on-treatment changes in liver test results both as multiples of the upper limit of normal (xULN) and multiples of the subjects' baseline (xBLN) values in clinical trials of subjects with abnormal baseline values. A simple click on a point in the plot enables generating overtime plot of all liver tests of a corresponding subject for a detailed observation. The eDISH migration table is a summary table of changes in eDISH quadrants from pretreatment (baseline) to peak on-treatment liver test results. See figures below for sampled of eDISH plot and migration table.
 
 <p align="center">
-  <img src="https://github.com/FDA/Composite-eDish-Plot/blob/main/Composite%20eDISH%20Plot.png">
+  <kbd><img src="https://github.com/FDA/Composite-eDish-Plot/blob/main/Output/Composite%20eDISH%20Plot.png"></kbd>  
 </p>
 
 <p align="center">
-  <img src="https://github.com/FDA/Composite-eDish-Plot/blob/main/Composite%20eDISH%20LinePlot.png">
+  <kbd><img src="https://github.com/FDA/Composite-eDish-Plot/blob/main/Output/LinePlot.png"></kbd>
 </p>
 
 
 <p align="center">
-<img src="https://github.com/FDA/Composite-eDish-Plot/blob/main/eDISH%20Migration%20Table.jpeg">
+<kbd><img src="https://github.com/FDA/Composite-eDish-Plot/blob/main/Output/eDISH%20Migration%20Table.jpeg"></kbd>
 </p>
 
 ## Authors
