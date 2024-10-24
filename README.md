@@ -53,9 +53,5 @@ Hypothetical adsl and adlb datasets are included in the repository to demonstrat
 To cite the code: [![DOI](https://zenodo.org/badge/777308644.svg)](https://zenodo.org/doi/10.5281/zenodo.10892050)
 
 ## Disclaimer
-Wherever applied, the contents in this Software and its accompanied documentations reflect the views of the authors and should not be construed to represent FDAâ€™s views or policies. The use of this code in no way implies endorsement by the FDA. Besides, FDA makes no representations that the use of the Software will not infringe any patent or proprietary rights of third parties.
-
-
-## Disclaimer
 Wherever applied, the contents in this Software and its accompanied documentations reflect the views of the authors and should not be construed to represent FDA’s views or policies. The use of this code in no way implies endorsement by the FDA. Besides, FDA makes no representations that the use of the Software will not infringe any patent or proprietary rights of third parties.
 
